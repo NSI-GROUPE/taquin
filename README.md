@@ -52,8 +52,7 @@ L’utilisateur peut interagir avec le jeu, déplacer les cases valides et tente
 
 ## 📸 Capture d’écran
 
-![Exemple du jeu du Taquin](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/15-puzzle.svg/320px-15-puzzle.svg.png)  
-*Exemple d’un plateau de jeu du Taquin (source Wikimedia Commons)*
+![image](https://github.com/user-attachments/assets/8ea47695-6388-4a8f-801d-ae0beeb60b7f)
 
 ---
 
