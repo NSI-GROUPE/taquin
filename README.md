@@ -52,7 +52,8 @@ L’utilisateur peut interagir avec le jeu, déplacer les cases valides et tente
 
 ## 📸 Capture d’écran
 
-![image](https://github.com/user-attachments/assets/8ea47695-6388-4a8f-801d-ae0beeb60b7f)
+![image](https://github.com/user-attachments/assets/27fa9495-c789-4e07-9e76-c86d81f328ce)
+
 
 ---
 
