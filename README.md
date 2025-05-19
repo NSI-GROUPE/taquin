@@ -26,4 +26,4 @@ Assurez-vous d'avoir **Python 3** installé.
 Lancez le fichier principal dans un terminal :
 
 ```bash
-python jeu_taquin_orelien.py
+python jeu_taquin.py
